@@ -1,0 +1,79 @@
+h1{
+    color: rgb(255, 255, 255);
+    font-family: 'Krona One', sans-serif;
+    font-size: 25px;
+    letter-spacing: 0%;
+    line-height: 30px;
+}
+h4{
+    color: rgb(150, 150, 150);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    letter-spacing: 0%;
+    
+}
+h3{
+    color: rgb(255, 255, 255);
+    font-family: 'calibri', sans-serif;
+    font-size: 15px;
+    position: absolute;
+    left: 500px;
+    top: 440px;
+}
+body
+{
+    background-color: rgb(0,0,0);
+}
+.texto-branco{
+    color: rgb(255, 255, 255);
+}
+.texto-azul{
+    color: aqua;
+}
+.tabela-centralizada{
+    margin: auto;
+    margin-top: 120px;
+    width: 45%;
+    border-collapse: collapse;
+}
+th, tr{
+    text-align: justify;
+}
+.botao-instagram{
+    background-color: aqua;
+    position: absolute;
+    left: 380px;
+    top: 350px;
+    color: black;
+    border: none;
+    padding: 10px 40px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+}.botao-instagram:hover{
+    background-color: rebeccapurple;
+}
+
+.botao-github{
+    background-color: aqua;
+    position: absolute;
+    left: 536px;
+    top: 350px;
+    color: black;
+    border: none;
+    padding: 10px 50px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+}.botao-github:hover{
+    background-color: rebeccapurple;
+
+}
+img{
+    max-width: 18%;
+    position: fixed;
+    left: 700px;
+    top: 127px;
+    border-radius: 5px;
+    padding: 1px 1px ;
+}
